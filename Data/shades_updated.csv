@@ -1,0 +1,626 @@
+brand,brand_short,product,product_short,hex,H,S,V,L,group,red,green,blue
+Maybelline,mb,Fit Me,fmf,"(243, 207, 179)",26.0,0.26,0.95,86,2,243,207,179
+Maybelline,mb,Fit Me,fmf,"(255, 227, 194)",32.0,0.24,1.0,92,2,255,227,194
+Maybelline,mb,Fit Me,fmf,"(255, 224, 205)",23.0,0.2,1.0,91,2,255,224,205
+Maybelline,mb,Fit Me,fmf,"(255, 211, 190)",19.0,0.25,1.0,88,2,255,211,190
+Maybelline,mb,Fit Me,fmf,"(189, 149, 132)",18.0,0.3,0.74,65,2,189,149,132
+Maybelline,mb,Fit Me,fmf,"(234, 189, 166)",20.0,0.29,0.92,80,2,234,189,166
+Maybelline,mb,Fit Me,fmf,"(251, 210, 173)",28.0,0.31,0.98,87,2,251,210,173
+Maybelline,mb,Fit Me,fmf,"(226, 181, 151)",24.0,0.33,0.89,77,2,226,181,151
+Maybelline,mb,Fit Me,fmf,"(228, 179, 142)",26.0,0.38,0.89,77,2,228,179,142
+Maybelline,mb,Fit Me,fmf,"(178, 133, 111)",20.0,0.38,0.7,60,2,178,133,111
+Maybelline,mb,Fit Me,fmf,"(232, 186, 140)",30.0,0.4,0.91,79,2,232,186,140
+Maybelline,mb,Fit Me,fmf,"(243, 181, 132)",26.0,0.46,0.95,79,2,243,181,132
+Maybelline,mb,Fit Me,fmf,"(240, 185, 150)",23.0,0.37,0.94,80,2,240,185,150
+Maybelline,mb,Fit Me,fmf,"(227, 176, 130)",28.0,0.43,0.89,76,2,227,176,130
+Maybelline,mb,Fit Me,fmf,"(234, 177, 129)",27.0,0.45,0.92,77,2,234,177,129
+Maybelline,mb,Fit Me,fmf,"(157, 115, 89)",23.0,0.43,0.62,52,2,157,115,89
+Maybelline,mb,Fit Me,fmf,"(226, 170, 123)",27.0,0.46,0.89,74,2,226,170,123
+Maybelline,mb,Fit Me,fmf,"(217, 147, 88)",27.0,0.59,0.85,67,2,217,147,88
+Maybelline,mb,Fit Me,fmf,"(156, 116, 79)",29.0,0.49,0.61,52,2,156,116,79
+Maybelline,mb,Fit Me,fmf,"(177, 139, 101)",30.0,0.43,0.69,61,2,177,139,101
+Maybelline,mb,Fit Me,fmf,"(132, 88, 63)",22.0,0.52,0.52,42,2,132,88,63
+Maybelline,mb,Fit Me,fmf,"(125, 86, 49)",29.0,0.61,0.49,40,2,125,86,49
+Maybelline,mb,Fit Me,fmf,"(192, 119, 70)",24.0,0.64,0.75,57,2,192,119,70
+Maybelline,mb,Fit Me,fmf,"(100, 60, 39)",21.0,0.61,0.39,30,2,100,60,39
+Maybelline,mb,Fit Me,fmf,"(237, 207, 185)",25.0,0.22,0.93,85,2,237,207,185
+Maybelline,mb,Fit Me,fmf,"(225, 187, 167)",21.0,0.26,0.88,79,2,225,187,167
+Maybelline,mb,Fit Me,fmf,"(193, 160, 126)",30.0,0.35,0.76,68,2,193,160,126
+Maybelline,mb,Fit Me,fmf,"(208, 158, 124)",24.0,0.4,0.82,69,2,208,158,124
+Maybelline,mb,Fit Me,fmf,"(199, 150, 125)",20.0,0.37,0.78,66,2,199,150,125
+Maybelline,mb,Fit Me,fmf,"(192, 149, 120)",24.0,0.38,0.75,65,2,192,149,120
+Maybelline,mb,Fit Me,fmf,"(157, 111, 72)",28.0,0.54,0.62,51,2,157,111,72
+Maybelline,mb,Fit Me,fmf,"(168, 109, 64)",26.0,0.62,0.66,52,2,168,109,64
+Maybelline,mb,Fit Me,fmf,"(127, 92, 59)",29.0,0.54,0.5,42,2,127,92,59
+Maybelline,mb,Fit Me,fmf,"(115, 86, 66)",24.0,0.43,0.45,39,2,115,86,66
+Maybelline,mb,Fit Me,fmf,"(107, 80, 65)",21.0,0.39,0.42,37,2,107,80,65
+Maybelline,mb,Fit Me,fmf,"(125, 92, 77)",19.0,0.38,0.49,42,2,125,92,77
+Maybelline,mb,Fit Me,fmf,"(92, 68, 51)",25.0,0.45,0.36,31,2,92,68,51
+Maybelline,mb,Fit Me,fmf,"(94, 58, 35)",23.0,0.63,0.37,28,2,94,58,35
+Maybelline,mb,Fit Me,fmf,"(94, 70, 56)",22.0,0.4,0.37,32,2,94,70,56
+Maybelline,mb,Fit Me,fmf,"(63, 32, 24)",12.0,0.62,0.25,16,2,63,32,24
+bareMinerals,bm,barePRO,pro,"(237, 206, 178)",28.0,0.25,0.93,85,2,237,206,178
+bareMinerals,bm,barePRO,pro,"(240, 203, 161)",32.0,0.33,0.94,84,2,240,203,161
+bareMinerals,bm,barePRO,pro,"(235, 201, 156)",34.0,0.34,0.92,83,2,235,201,156
+bareMinerals,bm,barePRO,pro,"(230, 188, 148)",29.0,0.36,0.9,79,2,230,188,148
+bareMinerals,bm,barePRO,pro,"(220, 183, 154)",26.0,0.3,0.86,77,2,220,183,154
+bareMinerals,bm,barePRO,pro,"(234, 200, 163)",31.0,0.3,0.92,83,2,234,200,163
+bareMinerals,bm,barePRO,pro,"(233, 200, 158)",34.0,0.32,0.91,83,2,233,200,158
+bareMinerals,bm,barePRO,pro,"(212, 173, 138)",28.0,0.35,0.83,74,2,212,173,138
+bareMinerals,bm,barePRO,pro,"(207, 167, 134)",27.0,0.35,0.81,72,2,207,167,134
+bareMinerals,bm,barePRO,pro,"(216, 176, 140)",28.0,0.35,0.85,75,2,216,176,140
+bareMinerals,bm,barePRO,pro,"(212, 169, 127)",30.0,0.4,0.83,72,2,212,169,127
+bareMinerals,bm,barePRO,pro,"(222, 181, 139)",30.0,0.37,0.87,77,2,222,181,139
+bareMinerals,bm,barePRO,pro,"(219, 174, 133)",29.0,0.39,0.86,75,2,219,174,133
+bareMinerals,bm,barePRO,pro,"(213, 162, 117)",28.0,0.45,0.84,71,2,213,162,117
+bareMinerals,bm,barePRO,pro,"(209, 166, 126)",29.0,0.4,0.82,71,2,209,166,126
+bareMinerals,bm,barePRO,pro,"(224, 171, 129)",27.0,0.42,0.88,74,2,224,171,129
+bareMinerals,bm,barePRO,pro,"(202, 159, 117)",30.0,0.42,0.79,69,2,202,159,117
+bareMinerals,bm,barePRO,pro,"(198, 156, 108)",32.0,0.45,0.78,68,2,198,156,108
+bareMinerals,bm,barePRO,pro,"(189, 147, 89)",35.0,0.53,0.74,64,2,189,147,89
+bareMinerals,bm,barePRO,pro,"(179, 131, 85)",29.0,0.53,0.7,59,2,179,131,85
+bareMinerals,bm,barePRO,pro,"(171, 121, 69)",31.0,0.6,0.67,55,2,171,121,69
+bareMinerals,bm,barePRO,pro,"(171, 121, 68)",31.0,0.6,0.67,55,2,171,121,68
+bareMinerals,bm,barePRO,pro,"(173, 125, 89)",26.0,0.49,0.68,57,2,173,125,89
+bareMinerals,bm,barePRO,pro,"(161, 108, 56)",30.0,0.65,0.63,51,2,161,108,56
+bareMinerals,bm,barePRO,pro,"(151, 98, 54)",27.0,0.64,0.59,47,2,151,98,54
+bareMinerals,bm,barePRO,pro,"(138, 88, 51)",26.0,0.63,0.54,43,2,138,88,51
+bareMinerals,bm,barePRO,pro,"(141, 92, 49)",28.0,0.65,0.55,44,2,141,92,49
+bareMinerals,bm,barePRO,pro,"(119, 84, 54)",28.0,0.55,0.47,39,2,119,84,54
+bareMinerals,bm,barePRO,pro,"(110, 75, 47)",27.0,0.57,0.43,35,2,110,75,47
+Estée Lauder,el,Double Wear,dw,"(255, 214, 186)",24.0,0.27,1.0,89,2,255,214,186
+Estée Lauder,el,Double Wear,dw,"(208, 162, 110)",32.0,0.47,0.82,70,2,208,162,110
+Estée Lauder,el,Double Wear,dw,"(196, 143, 86)",31.0,0.56,0.77,64,2,196,143,86
+Estée Lauder,el,Double Wear,dw,"(187, 128, 70)",30.0,0.63,0.73,59,2,187,128,70
+Estée Lauder,el,Double Wear,dw,"(255, 200, 163)",24.0,0.36,1.0,85,2,255,200,163
+Estée Lauder,el,Double Wear,dw,"(216, 187, 163)",27.0,0.25,0.85,78,2,216,187,163
+Estée Lauder,el,Double Wear,dw,"(250, 199, 167)",23.0,0.33,0.98,84,2,250,199,167
+Estée Lauder,el,Double Wear,dw,"(255, 203, 166)",25.0,0.35,1.0,86,2,255,203,166
+Estée Lauder,el,Double Wear,dw,"(229, 181, 147)",25.0,0.36,0.9,77,2,229,181,147
+Estée Lauder,el,Double Wear,dw,"(222, 163, 101)",31.0,0.55,0.87,72,2,222,163,101
+Estée Lauder,el,Double Wear,dw,"(216, 164, 109)",31.0,0.5,0.85,71,2,216,164,109
+Estée Lauder,el,Double Wear,dw,"(242, 187, 150)",24.0,0.38,0.95,80,2,242,187,150
+Estée Lauder,el,Double Wear,dw,"(212, 160, 102)",32.0,0.52,0.83,70,2,212,160,102
+Estée Lauder,el,Double Wear,dw,"(242, 191, 145)",28.0,0.4,0.95,81,2,242,191,145
+Estée Lauder,el,Double Wear,dw,"(237, 190, 152)",27.0,0.36,0.93,81,2,237,190,152
+Estée Lauder,el,Double Wear,dw,"(231, 183, 156)",22.0,0.32,0.91,78,2,231,183,156
+Estée Lauder,el,Double Wear,dw,"(235, 173, 129)",25.0,0.45,0.92,76,2,235,173,129
+Estée Lauder,el,Double Wear,dw,"(221, 180, 145)",28.0,0.34,0.87,76,2,221,180,145
+Estée Lauder,el,Double Wear,dw,"(229, 173, 138)",23.0,0.4,0.9,75,2,229,173,138
+Estée Lauder,el,Double Wear,dw,"(213, 154, 113)",25.0,0.47,0.84,69,2,213,154,113
+Estée Lauder,el,Double Wear,dw,"(207, 144, 93)",27.0,0.55,0.81,65,2,207,144,93
+Estée Lauder,el,Double Wear,dw,"(214, 144, 96)",24.0,0.55,0.84,66,2,214,144,96
+Estée Lauder,el,Double Wear,dw,"(190, 128, 88)",24.0,0.54,0.75,59,2,190,128,88
+Estée Lauder,el,Double Wear,dw,"(215, 152, 109)",24.0,0.49,0.84,68,2,215,152,109
+Estée Lauder,el,Double Wear,dw,"(173, 114, 71)",25.0,0.59,0.68,54,2,173,114,71
+Estée Lauder,el,Double Wear,dw,"(194, 116, 64)",24.0,0.67,0.76,57,2,194,116,64
+Estée Lauder,el,Double Wear,dw,"(192, 151, 107)",31.0,0.44,0.75,66,2,192,151,107
+Estée Lauder,el,Double Wear,dw,"(153, 86, 44)",23.0,0.71,0.6,44,2,153,86,44
+Estée Lauder,el,Double Wear,dw,"(218, 146, 107)",21.0,0.51,0.85,67,2,218,146,107
+Estée Lauder,el,Double Wear,dw,"(163, 88, 41)",23.0,0.75,0.64,46,2,163,88,41
+Estée Lauder,el,Double Wear,dw,"(181, 110, 56)",26.0,0.69,0.71,54,2,181,110,56
+Estée Lauder,el,Double Wear,dw,"(168, 95, 42)",25.0,0.75,0.66,48,2,168,95,42
+Estée Lauder,el,Double Wear,dw,"(143, 77, 43)",20.0,0.7,0.56,41,2,143,77,43
+Estée Lauder,el,Double Wear,dw,"(134, 79, 38)",26.0,0.72,0.53,40,2,134,79,38
+Estée Lauder,el,Double Wear,dw,"(143, 92, 53)",26.0,0.63,0.56,44,2,143,92,53
+Estée Lauder,el,Double Wear,dw,"(137, 92, 38)",33.0,0.72,0.54,43,2,137,92,38
+Estée Lauder,el,Double Wear,dw,"(170, 101, 51)",25.0,0.7,0.67,59,2,170,101,51
+Estée Lauder,el,Double Wear,dw,"(146, 91, 45)",27.0,0.69,0.57,44,2,146,91,45
+Estée Lauder,el,Double Wear,dw,"(119, 66, 30)",24.0,0.75,0.47,34,2,119,66,30
+Estée Lauder,el,Double Wear,dw,"(114, 71, 39)",26.0,0.66,0.45,35,2,114,71,39
+Estée Lauder,el,Double Wear,dw,"(126, 81, 45)",27.0,0.64,0.49,39,2,126,81,45
+Estée Lauder,el,Double Wear,dw,"(94, 54, 23)",26.0,0.76,0.37,27,2,94,54,23
+Revlon,rv,ColorStay,cs,"(249, 202, 172)",23.0,0.31,0.98,85,2,249,202,172
+Revlon,rv,ColorStay,cs,"(248, 199, 161)",26.0,0.35,0.97,84,2,248,199,161
+Revlon,rv,ColorStay,cs,"(241, 188, 150)",25.0,0.38,0.95,80,2,241,188,150
+Revlon,rv,ColorStay,cs,"(241, 180, 150)",20.0,0.38,0.95,79,2,241,180,150
+Revlon,rv,ColorStay,cs,"(232, 178, 156)",17.0,0.33,0.91,77,2,232,178,156
+Revlon,rv,ColorStay,cs,"(226, 174, 142)",23.0,0.37,0.89,75,2,226,174,142
+Revlon,rv,ColorStay,cs,"(223, 164, 140)",17.0,0.37,0.87,73,2,223,164,140
+Revlon,rv,ColorStay,cs,"(228, 168, 127)",24.0,0.44,0.89,74,2,228,168,127
+Revlon,rv,ColorStay,cs,"(225, 166, 129)",23.0,0.43,0.88,73,2,225,166,129
+Revlon,rv,ColorStay,cs,"(213, 161, 135)",20.0,0.37,0.84,71,2,213,161,135
+Revlon,rv,ColorStay,cs,"(219, 167, 135)",23.0,0.38,0.86,73,2,219,167,135
+Revlon,rv,ColorStay,cs,"(215, 159, 134)",19.0,0.38,0.84,70,2,215,159,134
+Revlon,rv,ColorStay,cs,"(213, 161, 135)",20.0,0.37,0.84,71,2,213,161,135
+Revlon,rv,ColorStay,cs,"(222, 154, 119)",20.0,0.46,0.87,70,2,222,154,119
+Revlon,rv,ColorStay,cs,"(203, 143, 110)",21.0,0.46,0.8,65,2,203,143,110
+Revlon,rv,ColorStay,cs,"(201, 134, 103)",19.0,0.49,0.79,62,2,201,134,103
+Revlon,rv,ColorStay,cs,"(198, 143, 113)",21.0,0.43,0.78,64,2,198,143,113
+Revlon,rv,ColorStay,cs,"(186, 133, 104)",21.0,0.44,0.73,60,2,186,133,104
+Revlon,rv,ColorStay,cs,"(167, 116, 94)",18.0,0.44,0.65,54,2,167,116,94
+Revlon,rv,ColorStay,cs,"(142, 101, 88)",14.0,0.38,0.56,47,2,142,101,88
+Revlon,rv,ColorStay,cs,"(238, 196, 152)",31.0,0.36,0.93,82,2,238,196,152
+Revlon,rv,ColorStay,cs,"(238, 194, 158)",27.0,0.34,0.93,82,2,238,194,158
+L'Oréal,lo,Infalliable,ipm,"(243, 198, 162)",27.0,0.33,0.95,83,2,243,198,162
+L'Oréal,lo,Infalliable,ipm,"(229, 173, 139)",23.0,0.39,0.9,75,2,229,173,139
+L'Oréal,lo,Infalliable,ipm,"(231, 173, 130)",26.0,0.44,0.91,76,2,231,173,130
+L'Oréal,lo,Infalliable,ipm,"(238, 182, 126)",30.0,0.47,0.93,78,2,238,182,126
+L'Oréal,lo,Infalliable,ipm,"(232, 180, 129)",30.0,0.44,0.91,77,2,232,180,129
+L'Oréal,lo,Infalliable,ipm,"(218, 162, 113)",28.0,0.48,0.85,71,2,218,162,113
+L'Oréal,lo,Infalliable,ipm,"(212, 158, 108)",29.0,0.49,0.83,70,2,212,158,108
+L'Oréal,lo,Infalliable,ipm,"(192, 132, 78)",28.0,0.59,0.75,61,2,192,132,78
+L'Oréal,lo,Infalliable,ipm,"(194, 127, 72)",27.0,0.63,0.76,60,2,194,127,72
+L'Oréal,lo,Infalliable,ipm,"(218, 158, 107)",28.0,0.51,0.85,70,2,218,158,107
+L'Oréal,lo,Infalliable,ipm,"(184, 119, 64)",28.0,0.65,0.72,56,2,184,119,64
+L'Oréal,lo,Infalliable,ipm,"(146, 84, 34)",27.0,0.77,0.57,43,2,146,84,34
+L'Oréal,lo,Infalliable,ipm,"(250, 220, 200)",24.0,0.2,0.98,90,2,250,220,200
+L'Oréal,lo,Infalliable,ipm,"(252, 214, 199)",17.0,0.21,0.99,89,2,252,214,199
+L'Oréal,lo,Infalliable,ipm,"(247, 202, 177)",21.0,0.28,0.97,85,2,247,202,177
+L'Oréal,lo,Infalliable,ipm,"(222, 176, 158)",17.0,0.29,0.87,76,2,222,176,158
+L'Oréal,lo,Infalliable,ipm,"(209, 163, 150)",13.0,0.28,0.82,71,2,209,163,150
+L'Oréal,lo,Infalliable,ipm,"(207, 156, 125)",23.0,0.4,0.81,69,2,207,156,125
+L'Oréal,lo,Infalliable,ipm,"(217, 153, 89)",30.0,0.59,0.85,69,2,217,153,89
+L'Oréal,lo,Infalliable,ipm,"(117, 71, 40)",24.0,0.66,0.46,35,2,117,71,40
+L'Oréal,lo,Infalliable,ipm,"(77, 44, 10)",30.0,0.87,0.3,22,2,77,44,10
+L'Oréal,lo,Infalliable,ipm,"(77, 32, 6)",22.0,0.92,0.3,19,2,77,32,6
+Covergirl + Olay,oc,Simply Ageless,sa,"(225, 173, 129)",,,,75,2,225,173,129
+Covergirl + Olay,oc,Simply Ageless,sa,"(222, 177, 146)",,,,76,2,222,177,146
+Covergirl + Olay,oc,Simply Ageless,sa,"(227, 180, 144)",,,,77,2,227,180,144
+Covergirl + Olay,oc,Simply Ageless,sa,"(233, 184, 152)",,,,79,2,233,184,152
+Covergirl + Olay,oc,Simply Ageless,sa,"(232, 187, 156)",,,,79,2,232,187,156
+Covergirl + Olay,oc,Simply Ageless,sa,"(225, 183, 160)",,,,78,2,225,183,160
+Covergirl + Olay,oc,Simply Ageless,sa,"(234, 196, 174)",,,,82,2,234,196,174
+Covergirl + Olay,oc,Simply Ageless,sa,"(234, 199, 171)",,,,83,2,234,199,171
+Covergirl + Olay,oc,Simply Ageless,sa,"(234, 190, 158)",,,,80,2,234,190,158
+Covergirl + Olay,oc,Simply Ageless,sa,"(229, 179, 154)",,,,77,2,229,179,154
+Covergirl + Olay,oc,Simply Ageless,sa,"(231, 181, 144)",,,,78,2,231,181,144
+Covergirl + Olay,oc,Simply Ageless,sa,"(247, 220, 202)",,,,90,2,247,220,202
+Fenty,fe,PRO FILT'R,pf,"(253, 233, 222)",21.0,0.12,0.99,94,0,253,233,222
+Fenty,fe,PRO FILT'R,pf,"(253, 231, 218)",22.0,0.14,0.99,93,0,253,231,218
+Fenty,fe,PRO FILT'R,pf,"(253, 227, 204)",28.0,0.19,0.99,92,0,253,227,204
+Fenty,fe,PRO FILT'R,pf,"(242, 211, 177)",31.0,0.27,0.95,87,0,242,211,177
+Fenty,fe,PRO FILT'R,pf,"(252, 225, 198)",30.0,0.21,0.99,91,0,252,225,198
+Fenty,fe,PRO FILT'R,pf,"(239, 209, 183)",28.0,0.23,0.94,86,0,239,209,183
+Fenty,fe,PRO FILT'R,pf,"(244, 204, 168)",28.0,0.31,0.96,85,0,244,204,168
+Fenty,fe,PRO FILT'R,pf,"(232, 191, 163)",24.0,0.3,0.91,80,0,232,191,163
+Fenty,fe,PRO FILT'R,pf,"(250, 213, 184)",26.0,0.26,0.98,88,0,250,213,184
+Fenty,fe,PRO FILT'R,pf,"(233, 195, 159)",29.0,0.32,0.91,81,0,233,195,159
+Fenty,fe,PRO FILT'R,pf,"(232, 188, 153)",27.0,0.34,0.91,80,0,232,188,153
+Fenty,fe,PRO FILT'R,pf,"(226, 173, 133)",26.0,0.41,0.89,75,0,226,173,133
+Fenty,fe,PRO FILT'R,pf,"(238, 186, 147)",26.0,0.38,0.93,80,0,238,186,147
+Fenty,fe,PRO FILT'R,pf,"(223, 173, 137)",25.0,0.39,0.87,75,0,223,173,137
+Fenty,fe,PRO FILT'R,pf,"(217, 165, 125)",26.0,0.42,0.85,72,0,217,165,125
+Fenty,fe,PRO FILT'R,pf,"(228, 172, 124)",28.0,0.46,0.89,75,0,228,172,124
+Fenty,fe,PRO FILT'R,pf,"(220, 167, 125)",27.0,0.43,0.86,73,0,220,167,125
+Fenty,fe,PRO FILT'R,pf,"(213, 157, 109)",28.0,0.49,0.84,69,0,213,157,109
+Fenty,fe,PRO FILT'R,pf,"(231, 174, 133)",25.0,0.42,0.91,76,0,231,174,133
+Fenty,fe,PRO FILT'R,pf,"(220, 177, 125)",33.0,0.43,0.86,75,0,220,177,125
+Fenty,fe,PRO FILT'R,pf,"(202, 146, 98)",28.0,0.51,0.79,65,0,202,146,98
+Fenty,fe,PRO FILT'R,pf,"(210, 143, 88)",27.0,0.58,0.82,65,0,210,143,88
+Fenty,fe,PRO FILT'R,pf,"(211, 144, 99)",24.0,0.53,0.83,66,0,211,144,99
+Fenty,fe,PRO FILT'R,pf,"(211, 145, 86)",28.0,0.59,0.83,66,0,211,145,86
+Fenty,fe,PRO FILT'R,pf,"(172, 119, 82)",25.0,0.52,0.67,55,0,172,119,82
+Fenty,fe,PRO FILT'R,pf,"(182, 120, 73)",26.0,0.6,0.71,56,0,182,120,73
+Fenty,fe,PRO FILT'R,pf,"(189, 123, 69)",27.0,0.63,0.74,58,0,189,123,69
+Fenty,fe,PRO FILT'R,pf,"(201, 130, 86)",23.0,0.57,0.79,61,0,201,130,86
+Fenty,fe,PRO FILT'R,pf,"(202, 135, 90)",24.0,0.55,0.79,63,0,202,135,90
+Fenty,fe,PRO FILT'R,pf,"(168, 107, 63)",25.0,0.63,0.66,51,0,168,107,63
+Fenty,fe,PRO FILT'R,pf,"(166, 94, 35)",27.0,0.79,0.65,48,0,166,94,35
+Fenty,fe,PRO FILT'R,pf,"(157, 93, 45)",26.0,0.71,0.62,46,0,157,93,45
+Fenty,fe,PRO FILT'R,pf,"(171, 105, 57)",25.0,0.67,0.67,51,0,171,105,57
+Fenty,fe,PRO FILT'R,pf,"(137, 79, 41)",24.0,0.7,0.54,40,0,137,79,41
+Fenty,fe,PRO FILT'R,pf,"(155, 91, 53)",22.0,0.66,0.61,46,0,155,91,53
+Fenty,fe,PRO FILT'R,pf,"(130, 79, 48)",23.0,0.63,0.51,39,0,130,79,48
+Fenty,fe,PRO FILT'R,pf,"(125, 69, 44)",19.0,0.65,0.49,36,0,125,69,44
+Fenty,fe,PRO FILT'R,pf,"(109, 59, 32)",21.0,0.71,0.43,31,0,109,59,32
+Fenty,fe,PRO FILT'R,pf,"(104, 58, 32)",22.0,0.69,0.41,30,0,104,58,32
+Fenty,fe,PRO FILT'R,pf,"(88, 50, 24)",24.0,0.73,0.35,25,0,88,50,24
+Iman,im,Second to None,sn,"(225, 190, 164)",26.0,0.27,0.88,80,3,225,190,164
+Iman,im,Second to None,sn,"(229, 174, 134)",25.0,0.41,0.9,76,3,229,174,134
+Iman,im,Second to None,sn,"(195, 142, 99)",27.0,0.49,0.76,64,3,195,142,99
+Iman,im,Second to None,sn,"(172, 112, 61)",28.0,0.65,0.67,53,3,172,112,61
+Iman,im,Second to None,sn,"(158, 98, 9)",36.0,0.94,0.62,47,3,158,98,9
+Iman,im,Second to None,sn,"(133, 87, 35)",32.0,0.74,0.52,41,3,133,87,35
+Iman,im,Second to None,sn,"(121, 63, 13)",28.0,0.89,0.47,34,3,121,63,13
+Iman,im,Second to None,sn,"(100, 48, 10)",25.0,0.9,0.39,27,3,100,48,10
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(83, 46, 30)",18.0,0.64,0.33,24,3,83,46,30
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(78, 42, 26)",18.0,0.67,0.31,22,3,78,42,26
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(98, 63, 44)",21.0,0.55,0.38,30,3,98,63,44
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(142, 83, 43)",24.0,0.7,0.56,42,3,142,83,43
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(152, 82, 35)",24.0,0.77,0.6,43,3,152,82,35
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(168, 103, 56)",25.0,0.67,0.66,50,3,168,103,56
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(161, 111, 76)",25.0,0.53,0.63,52,3,161,111,76
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(164, 104, 59)",26.0,0.64,0.64,50,3,164,104,59
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(164, 104, 59)",26.0,0.64,0.64,50,3,164,104,59
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(186, 114, 70)",23.0,0.62,0.73,55,3,186,114,70
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(168, 109, 70)",24.0,0.58,0.66,52,3,168,109,70
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(180, 124, 87)",24.0,0.52,0.71,57,3,180,124,87
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(204, 149, 97)",29.0,0.52,0.8,66,3,204,149,97
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(214, 168, 120)",31.0,0.44,0.84,72,3,214,168,120
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(208, 163, 127)",27.0,0.39,0.82,71,3,208,163,127
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(241, 199, 142)",35.0,0.41,0.95,83,3,241,199,142
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(242, 206, 162)",33.0,0.33,0.95,85,3,242,206,162
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(245, 218, 182)",34.0,0.26,0.96,89,3,245,218,182
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(233, 192, 150)",30.0,0.36,0.91,81,3,233,192,150
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(237, 203, 171)",29.0,0.28,0.93,84,3,237,203,171
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(242, 218, 193)",31.0,0.2,0.95,89,3,242,218,193
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(242, 219, 187)",35.0,0.23,0.95,89,3,242,219,187
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(243, 218, 188)",33.0,0.23,0.95,89,3,243,218,188
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(243, 219, 188)",34.0,0.23,0.95,89,3,243,219,188
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(246, 226, 199)",34.0,0.19,0.96,91,3,246,226,199
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(244, 223, 201)",31.0,0.18,0.96,90,3,244,223,201
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(249, 236, 197)",45.0,0.21,0.98,94,3,249,236,197
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(249, 235, 205)",41.0,0.18,0.98,94,3,249,235,205
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(243, 226, 206)",32.0,0.15,0.95,91,3,243,226,206
+Beauty Bakerie,bb,#1 CAKE MIX,cm,"(245, 232, 215)",34.0,0.12,0.96,93,3,245,232,215
+Black Up,bu,Matifying Fluid,mf,"(238, 209, 181)",29.0,0.24,0.93,86,3,238,209,181
+Black Up,bu,Matifying Fluid,mf,"(218, 170, 128)",28.0,0.41,0.85,73,3,218,170,128
+Black Up,bu,Matifying Fluid,mf,"(215, 167, 120)",30.0,0.44,0.84,72,3,215,167,120
+Black Up,bu,Matifying Fluid,mf,"(223, 164, 111)",28.0,0.5,0.87,72,3,223,164,111
+Black Up,bu,Matifying Fluid,mf,"(210, 143, 102)",23.0,0.51,0.82,66,3,210,143,102
+Black Up,bu,Matifying Fluid,mf,"(173, 109, 65)",24.0,0.62,0.68,52,3,173,109,65
+Black Up,bu,Matifying Fluid,mf,"(201, 140, 96)",25.0,0.52,0.79,64,3,201,140,96
+Black Up,bu,Matifying Fluid,mf,"(191, 122, 67)",27.0,0.65,0.75,58,3,191,122,67
+Black Up,bu,Matifying Fluid,mf,"(172, 115, 76)",24.0,0.56,0.67,54,3,172,115,76
+Black Up,bu,Matifying Fluid,mf,"(185, 114, 69)",23.0,0.63,0.73,55,3,185,114,69
+Black Up,bu,Matifying Fluid,mf,"(160, 82, 44)",20.0,0.73,0.63,44,3,160,82,44
+Black Up,bu,Matifying Fluid,mf,"(158, 90, 53)",21.0,0.66,0.62,46,3,158,90,53
+Black Up,bu,Matifying Fluid,mf,"(151, 71, 46)",14.0,0.7,0.59,41,3,151,71,46
+Black Up,bu,Matifying Fluid,mf,"(126, 62, 42)",14.0,0.67,0.49,34,3,126,62,42
+Black Up,bu,Matifying Fluid,mf,"(123, 54, 37)",12.0,0.7,0.48,32,3,123,54,37
+Black Up,bu,Matifying Fluid,mf,"(101, 49, 41)",8.0,0.59,0.4,27,3,101,49,41
+Black Up,bu,Matifying Fluid,mf,"(59, 34, 24)",17.0,0.59,0.23,16,3,59,34,24
+Black Up,bu,Matifying Fluid,mf,"(53, 35, 21)",26.0,0.6,0.21,16,3,53,35,21
+Black Opal,bo,True Color,tc,"(183, 125, 87)",24.0,0.52,0.72,65,3,183,125,87
+Black Opal,bo,True Color,tc,"(188, 131, 91)",25.0,0.52,0.74,60,3,188,131,91
+Black Opal,bo,True Color,tc,"(182, 119, 83)",22.0,0.54,0.71,56,3,182,119,83
+Black Opal,bo,True Color,tc,"(183, 125, 83)",25.0,0.55,0.72,58,3,183,125,83
+Black Opal,bo,True Color,tc,"(123, 78, 52)",22.0,0.58,0.48,38,3,123,78,52
+Black Opal,bo,True Color,tc,"(122, 82, 58)",23.0,0.52,0.48,39,3,122,82,58
+Black Opal,bo,True Color,tc,"(113, 65, 45)",18.0,0.6,0.44,33,3,113,65,45
+Black Opal,bo,True Color,tc,"(129, 82, 62)",18.0,0.52,0.51,40,3,129,82,62
+Black Opal,bo,True Color,tc,"(106, 67, 56)",13.0,0.47,0.42,33,3,106,67,56
+Black Opal,bo,True Color,tc,"(84, 48, 34)",17.0,0.6,0.33,24,3,84,48,34
+Black Opal,bo,True Color,tc,"(93, 62, 46)",20.0,0.51,0.36,30,3,93,62,46
+Black Opal,bo,True Color,tc,"(76, 46, 34)",17.0,0.55,0.3,23,3,76,46,34
+Laws of Nature,ln,Foxy Finish,ff,"(166, 108, 75)",22.0,0.55,0.65,51,3,166,108,75
+Laws of Nature,ln,Foxy Finish,ff,"(187, 143, 127)",16.0,0.32,0.73,63,3,187,143,127
+Laws of Nature,ln,Foxy Finish,ff,"(223, 185, 175)",12.0,0.22,0.87,78,3,223,185,175
+Laws of Nature,ln,Foxy Finish,ff,"(183, 116, 60)",27.0,0.67,0.72,55,3,183,116,60
+Laws of Nature,ln,Foxy Finish,ff,"(146, 72, 41)",18.0,0.72,0.57,40,3,146,72,41
+Laws of Nature,ln,Foxy Finish,ff,"(163, 116, 82)",25.0,0.5,0.64,53,3,163,116,82
+Laws of Nature,ln,Foxy Finish,ff,"(108, 69, 41)",25.0,0.62,0.42,33,3,108,69,41
+Laws of Nature,ln,Foxy Finish,ff,"(50, 20, 7)",18.0,0.86,0.2,11,3,50,20,7
+Laws of Nature,ln,Foxy Finish,ff,"(204, 157, 114)",29.0,0.44,0.8,68,3,204,157,114
+Laws of Nature,ln,Foxy Finish,ff,"(166, 108, 73)",23.0,0.56,0.65,51,3,166,108,73
+Laws of Nature,ln,Foxy Finish,ff,"(190, 120, 77)",23.0,0.59,0.75,57,3,190,120,77
+Laws of Nature,ln,Foxy Finish,ff,"(89, 45, 36)",10.0,0.6,0.35,24,3,89,45,36
+Laws of Nature,ln,Foxy Finish,ff,"(182, 142, 111)",26.0,0.39,0.71,62,3,182,142,111
+Laws of Nature,ln,Foxy Finish,ff,"(177, 146, 119)",28.0,0.33,0.69,63,3,177,146,119
+Laws of Nature,ln,Foxy Finish,ff,"(163, 114, 74)",27.0,0.55,0.64,53,3,163,114,74
+Laws of Nature,ln,Foxy Finish,ff,"(116, 43, 19)",15.0,0.84,0.45,29,3,116,43,19
+Laws of Nature,ln,Foxy Finish,ff,"(222, 179, 153)",23.0,0.31,0.87,76,3,222,179,153
+Lancôme,lc,Teint Idole,ti,"(253, 236, 228)",19.0,0.1,0.99,95,4,253,236,228
+Lancôme,lc,Teint Idole,ti,"(244, 209, 171)",31.0,0.3,0.96,86,4,244,209,171
+Lancôme,lc,Teint Idole,ti,"(238, 193, 160)",25.0,0.33,0.93,82,4,238,193,160
+Lancôme,lc,Teint Idole,ti,"(234, 195, 152)",31.0,0.35,0.92,81,4,234,195,152
+Lancôme,lc,Teint Idole,ti,"(233, 190, 158)",26.0,0.32,0.91,80,4,233,190,158
+Lancôme,lc,Teint Idole,ti,"(222, 186, 150)",30.0,0.32,0.87,78,4,222,186,150
+Lancôme,lc,Teint Idole,ti,"(220, 177, 144)",26.0,0.35,0.86,76,4,220,177,144
+Lancôme,lc,Teint Idole,ti,"(221, 179, 145)",27.0,0.34,0.87,76,4,221,179,145
+Lancôme,lc,Teint Idole,ti,"(228, 186, 140)",31.0,0.39,0.89,78,4,228,186,140
+Lancôme,lc,Teint Idole,ti,"(226, 183, 143)",29.0,0.37,0.89,78,4,226,183,143
+Lancôme,lc,Teint Idole,ti,"(229, 177, 137)",26.0,0.4,0.9,76,4,229,177,137
+Lancôme,lc,Teint Idole,ti,"(243, 199, 150)",32.0,0.38,0.95,83,4,243,199,150
+Lancôme,lc,Teint Idole,ti,"(243, 191, 144)",28.0,0.41,0.95,81,4,243,191,144
+Lancôme,lc,Teint Idole,ti,"(225, 175, 140)",25.0,0.38,0.88,76,4,225,175,140
+Lancôme,lc,Teint Idole,ti,"(221, 177, 132)",30.0,0.4,0.87,75,4,221,177,132
+Lancôme,lc,Teint Idole,ti,"(220, 167, 125)",27.0,0.43,0.86,73,4,220,167,125
+Lancôme,lc,Teint Idole,ti,"(214, 167, 125)",28.0,0.42,0.84,72,4,214,167,125
+Lancôme,lc,Teint Idole,ti,"(215, 161, 127)",23.0,0.41,0.84,71,4,215,161,127
+Lancôme,lc,Teint Idole,ti,"(215, 161, 125)",24.0,0.42,0.84,71,4,215,161,125
+Lancôme,lc,Teint Idole,ti,"(221, 168, 118)",29.0,0.47,0.87,73,4,221,168,118
+Lancôme,lc,Teint Idole,ti,"(227, 159, 114)",24.0,0.5,0.89,72,4,227,159,114
+Lancôme,lc,Teint Idole,ti,"(207, 145, 98)",26.0,0.53,0.81,66,4,207,145,98
+Lancôme,lc,Teint Idole,ti,"(224, 161, 107)",28.0,0.52,0.88,72,4,224,161,107
+Lancôme,lc,Teint Idole,ti,"(208, 151, 93)",30.0,0.55,0.82,67,4,208,151,93
+Lancôme,lc,Teint Idole,ti,"(210, 158, 109)",29.0,0.48,0.82,69,4,210,158,109
+Lancôme,lc,Teint Idole,ti,"(201, 146, 94)",29.0,0.53,0.79,65,4,201,146,94
+Lancôme,lc,Teint Idole,ti,"(206, 140, 92)",25.0,0.55,0.81,64,4,206,140,92
+Lancôme,lc,Teint Idole,ti,"(187, 126, 68)",29.0,0.64,0.73,58,4,187,126,68
+Lancôme,lc,Teint Idole,ti,"(206, 145, 99)",26.0,0.52,0.81,66,4,206,145,99
+Lancôme,lc,Teint Idole,ti,"(189, 127, 86)",24.0,0.54,0.74,59,4,189,127,86
+Lancôme,lc,Teint Idole,ti,"(147, 84, 39)",25.0,0.73,0.58,43,4,147,84,39
+Lancôme,lc,Teint Idole,ti,"(188, 124, 86)",22.0,0.54,0.74,58,4,188,124,86
+Lancôme,lc,Teint Idole,ti,"(170, 105, 65)",23.0,0.62,0.67,51,4,170,105,65
+Lancôme,lc,Teint Idole,ti,"(155, 94, 65)",19.0,0.58,0.61,46,4,155,94,65
+Lancôme,lc,Teint Idole,ti,"(138, 77, 48)",19.0,0.65,0.54,40,4,138,77,48
+Lancôme,lc,Teint Idole,ti,"(123, 60, 17)",24.0,0.86,0.48,33,4,123,60,17
+Lancôme,lc,Teint Idole,ti,"(112, 62, 35)",21.0,0.69,0.44,32,4,112,62,35
+Lancôme,lc,Teint Idole,ti,"(80, 39, 22)",18.0,0.73,0.31,21,4,80,39,22
+Lancôme,lc,Teint Idole,ti,"(124, 63, 44)",14.0,0.65,0.49,34,4,124,63,44
+Lancôme,lc,Teint Idole,ti,"(57, 27, 17)",15.0,0.7,0.22,14,4,57,27,17
+MAC,ma,Studio Fix,sff,"(216, 181, 147)",30.0,0.32,0.85,76,4,216,181,147
+MAC,ma,Studio Fix,sff,"(251, 190, 145)",25.0,0.42,0.98,82,4,251,190,145
+MAC,ma,Studio Fix,sff,"(210, 174, 136)",31.0,0.35,0.82,74,4,210,174,136
+MAC,ma,Studio Fix,sff,"(208, 168, 127)",30.0,0.39,0.82,72,4,208,168,127
+MAC,ma,Studio Fix,sff,"(215, 144, 81)",28.0,0.62,0.84,66,4,215,144,81
+MAC,ma,Studio Fix,sff,"(255, 219, 194)",25.0,0.24,1.0,90,4,255,219,194
+MAC,ma,Studio Fix,sff,"(255, 201, 169)",22.0,0.34,1.0,85,4,255,201,169
+MAC,ma,Studio Fix,sff,"(255, 215, 180)",28.0,0.29,1.0,89,4,255,215,180
+MAC,ma,Studio Fix,sff,"(223, 199, 168)",34.0,0.25,0.87,82,4,223,199,168
+MAC,ma,Studio Fix,sff,"(218, 188, 150)",34.0,0.31,0.85,78,4,218,188,150
+MAC,ma,Studio Fix,sff,"(217, 184, 143)",33.0,0.34,0.85,77,4,217,184,143
+MAC,ma,Studio Fix,sff,"(212, 181, 136)",36.0,0.36,0.83,76,4,212,181,136
+MAC,ma,Studio Fix,sff,"(208, 174, 132)",33.0,0.37,0.82,73,4,208,174,132
+MAC,ma,Studio Fix,sff,"(211, 177, 138)",32.0,0.35,0.83,75,4,211,177,138
+MAC,ma,Studio Fix,sff,"(209, 172, 127)",33.0,0.39,0.82,73,4,209,172,127
+MAC,ma,Studio Fix,sff,"(208, 169, 123)",32.0,0.41,0.82,72,4,208,169,123
+MAC,ma,Studio Fix,sff,"(201, 161, 119)",31.0,0.41,0.79,69,4,201,161,119
+MAC,ma,Studio Fix,sff,"(197, 152, 109)",29.0,0.45,0.77,66,4,197,152,109
+MAC,ma,Studio Fix,sff,"(213, 132, 75)",25.0,0.65,0.84,63,4,213,132,75
+MAC,ma,Studio Fix,sff,"(219, 134, 77)",24.0,0.65,0.86,64,4,219,134,77
+MAC,ma,Studio Fix,sff,"(181, 133, 90)",28.0,0.5,0.71,60,4,181,133,90
+MAC,ma,Studio Fix,sff,"(179, 132, 86)",30.0,0.52,0.7,59,4,179,132,86
+MAC,ma,Studio Fix,sff,"(229, 209, 190)",29.0,0.17,0.9,85,4,229,209,190
+MAC,ma,Studio Fix,sff,"(224, 200, 174)",31.0,0.22,0.88,82,4,224,200,174
+MAC,ma,Studio Fix,sff,"(224, 193, 162)",30.0,0.28,0.88,80,4,224,193,162
+MAC,ma,Studio Fix,sff,"(220, 188, 162)",27.0,0.26,0.86,79,4,220,188,162
+MAC,ma,Studio Fix,sff,"(219, 188, 159)",29.0,0.27,0.86,78,4,219,188,159
+MAC,ma,Studio Fix,sff,"(217, 178, 141)",29.0,0.35,0.85,75,4,217,178,141
+MAC,ma,Studio Fix,sff,"(213, 178, 147)",28.0,0.31,0.84,75,4,213,178,147
+MAC,ma,Studio Fix,sff,"(213, 173, 137)",28.0,0.36,0.84,74,4,213,173,137
+MAC,ma,Studio Fix,sff,"(209, 168, 138)",25.0,0.34,0.82,72,4,209,168,138
+MAC,ma,Studio Fix,sff,"(207, 166, 125)",30.0,0.4,0.81,71,4,207,166,125
+MAC,ma,Studio Fix,sff,"(203, 162, 117)",31.0,0.42,0.8,70,4,203,162,117
+MAC,ma,Studio Fix,sff,"(195, 147, 104)",28.0,0.47,0.76,65,4,195,147,104
+MAC,ma,Studio Fix,sff,"(178, 128, 80)",29.0,0.55,0.7,58,4,178,128,80
+MAC,ma,Studio Fix,sff,"(185, 133, 90)",27.0,0.51,0.73,60,4,185,133,90
+MAC,ma,Studio Fix,sff,"(178, 121, 73)",27.0,0.59,0.7,56,4,178,121,73
+MAC,ma,Studio Fix,sff,"(174, 122, 80)",27.0,0.54,0.68,56,4,174,122,80
+MAC,ma,Studio Fix,sff,"(167, 114, 70)",27.0,0.58,0.65,53,4,167,114,70
+MAC,ma,Studio Fix,sff,"(160, 113, 77)",26.0,0.52,0.63,52,4,160,113,77
+MAC,ma,Studio Fix,sff,"(169, 115, 78)",24.0,0.54,0.66,54,4,169,115,78
+MAC,ma,Studio Fix,sff,"(114, 74, 50)",23.0,0.56,0.45,36,4,114,74,50
+Bobbi Brown,br,Skin Long-Wear,slw,"(245, 224, 200)",32.0,0.18,0.96,90,4,245,224,200
+Bobbi Brown,br,Skin Long-Wear,slw,"(239, 207, 175)",30.0,0.27,0.94,85,4,239,207,175
+Bobbi Brown,br,Skin Long-Wear,slw,"(232, 188, 164)",21.0,0.29,0.91,80,4,232,188,164
+Bobbi Brown,br,Skin Long-Wear,slw,"(229, 188, 146)",30.0,0.36,0.9,79,4,229,188,146
+Bobbi Brown,br,Skin Long-Wear,slw,"(222, 190, 151)",33.0,0.32,0.87,79,4,222,190,151
+Bobbi Brown,br,Skin Long-Wear,slw,"(233, 201, 170)",30.0,0.27,0.91,83,4,233,201,170
+Bobbi Brown,br,Skin Long-Wear,slw,"(234, 196, 159)",30.0,0.32,0.92,82,4,234,196,159
+Bobbi Brown,br,Skin Long-Wear,slw,"(236, 195, 161)",27.0,0.32,0.93,82,4,236,195,161
+Bobbi Brown,br,Skin Long-Wear,slw,"(226, 185, 150)",28.0,0.34,0.89,78,4,226,185,150
+Bobbi Brown,br,Skin Long-Wear,slw,"(210, 158, 123)",24.0,0.41,0.82,70,4,210,158,123
+Bobbi Brown,br,Skin Long-Wear,slw,"(217, 167, 121)",29.0,0.44,0.85,72,4,217,167,121
+Bobbi Brown,br,Skin Long-Wear,slw,"(214, 160, 117)",27.0,0.45,0.84,70,4,214,160,117
+Bobbi Brown,br,Skin Long-Wear,slw,"(211, 153, 111)",25.0,0.47,0.83,68,4,211,153,111
+Bobbi Brown,br,Skin Long-Wear,slw,"(215, 167, 112)",32.0,0.48,0.84,72,4,215,167,112
+Bobbi Brown,br,Skin Long-Wear,slw,"(202, 143, 99)",26.0,0.51,0.79,65,4,202,143,99
+Bobbi Brown,br,Skin Long-Wear,slw,"(210, 157, 113)",27.0,0.46,0.82,69,4,210,157,113
+Bobbi Brown,br,Skin Long-Wear,slw,"(208, 144, 89)",28.0,0.57,0.82,65,4,208,144,89
+Bobbi Brown,br,Skin Long-Wear,slw,"(202, 148, 80)",33.0,0.6,0.79,66,4,202,148,80
+Bobbi Brown,br,Skin Long-Wear,slw,"(204, 147, 87)",31.0,0.57,0.8,66,4,204,147,87
+Bobbi Brown,br,Skin Long-Wear,slw,"(178, 124, 59)",33.0,0.67,0.7,57,4,178,124,59
+Bobbi Brown,br,Skin Long-Wear,slw,"(168, 104, 41)",30.0,0.76,0.66,50,4,168,104,41
+Bobbi Brown,br,Skin Long-Wear,slw,"(184, 120, 64)",28.0,0.65,0.72,57,4,184,120,64
+Bobbi Brown,br,Skin Long-Wear,slw,"(154, 78, 40)",20.0,0.74,0.6,42,4,154,78,40
+Bobbi Brown,br,Skin Long-Wear,slw,"(129, 86, 47)",29.0,0.64,0.51,41,4,129,86,47
+Bobbi Brown,br,Skin Long-Wear,slw,"(170, 106, 47)",29.0,0.72,0.67,51,4,170,106,47
+Bobbi Brown,br,Skin Long-Wear,slw,"(155, 81, 39)",22.0,0.75,0.61,43,4,155,81,39
+Bobbi Brown,br,Skin Long-Wear,slw,"(126, 70, 45)",19.0,0.64,0.49,36,4,126,70,45
+Bobbi Brown,br,Skin Long-Wear,slw,"(142, 73, 34)",22.0,0.76,0.56,39,4,142,73,34
+Bobbi Brown,br,Skin Long-Wear,slw,"(123, 40, 0)",20.0,1.0,0.48,29,4,123,40,0
+Bobbi Brown,br,Skin Long-Wear,slw,"(98, 55, 38)",17.0,0.61,0.38,28,4,98,55,38
+Make Up For Ever,mu,Ultra HD,uhd,"(249, 227, 213)",23.0,0.14,0.98,92,1,249,227,213
+Make Up For Ever,mu,Ultra HD,uhd,"(246, 210, 187)",23.0,0.24,0.96,87,1,246,210,187
+Make Up For Ever,mu,Ultra HD,uhd,"(249, 213, 195)",20.0,0.22,0.98,88,1,249,213,195
+Make Up For Ever,mu,Ultra HD,uhd,"(247, 195, 179)",14.0,0.28,0.97,83,1,247,195,179
+Make Up For Ever,mu,Ultra HD,uhd,"(222, 204, 175)",37.0,0.21,0.87,83,1,222,204,175
+Make Up For Ever,mu,Ultra HD,uhd,"(225, 194, 168)",27.0,0.25,0.88,81,1,225,194,168
+Make Up For Ever,mu,Ultra HD,uhd,"(239, 210, 184)",28.0,0.23,0.94,86,1,239,210,184
+Make Up For Ever,mu,Ultra HD,uhd,"(247, 188, 183)",5.0,0.26,0.97,82,1,247,188,183
+Make Up For Ever,mu,Ultra HD,uhd,"(235, 202, 176)",26.0,0.25,0.92,84,1,235,202,176
+Make Up For Ever,mu,Ultra HD,uhd,"(234, 193, 172)",20.0,0.26,0.92,81,1,234,193,172
+Make Up For Ever,mu,Ultra HD,uhd,"(232, 198, 163)",30.0,0.3,0.91,82,1,232,198,163
+Make Up For Ever,mu,Ultra HD,uhd,"(242, 204, 183)",21.0,0.24,0.95,85,1,242,204,183
+Make Up For Ever,mu,Ultra HD,uhd,"(220, 167, 149)",15.0,0.32,0.86,73,1,220,167,149
+Make Up For Ever,mu,Ultra HD,uhd,"(228, 189, 156)",27.0,0.32,0.89,79,1,228,189,156
+Make Up For Ever,mu,Ultra HD,uhd,"(218, 173, 144)",24.0,0.34,0.85,74,1,218,173,144
+Make Up For Ever,mu,Ultra HD,uhd,"(216, 171, 139)",25.0,0.36,0.85,74,1,216,171,139
+Make Up For Ever,mu,Ultra HD,uhd,"(221, 179, 149)",25.0,0.33,0.87,76,1,221,179,149
+Make Up For Ever,mu,Ultra HD,uhd,"(227, 179, 145)",25.0,0.36,0.89,77,1,227,179,145
+Make Up For Ever,mu,Ultra HD,uhd,"(227, 178, 150)",22.0,0.34,0.89,77,1,227,178,150
+Make Up For Ever,mu,Ultra HD,uhd,"(220, 181, 156)",23.0,0.29,0.86,77,1,220,181,156
+Make Up For Ever,mu,Ultra HD,uhd,"(215, 158, 137)",16.0,0.36,0.84,70,1,215,158,137
+Make Up For Ever,mu,Ultra HD,uhd,"(217, 165, 134)",22.0,0.38,0.85,72,1,217,165,134
+Make Up For Ever,mu,Ultra HD,uhd,"(209, 149, 120)",20.0,0.43,0.82,67,1,209,149,120
+Make Up For Ever,mu,Ultra HD,uhd,"(231, 179, 145)",24.0,0.37,0.91,77,1,231,179,145
+Make Up For Ever,mu,Ultra HD,uhd,"(212, 166, 137)",23.0,0.35,0.83,72,1,212,166,137
+Make Up For Ever,mu,Ultra HD,uhd,"(214, 155, 129)",18.0,0.4,0.84,69,1,214,155,129
+Make Up For Ever,mu,Ultra HD,uhd,"(213, 150, 130)",14.0,0.39,0.84,68,1,213,150,130
+Make Up For Ever,mu,Ultra HD,uhd,"(201, 153, 128)",21.0,0.36,0.79,67,1,201,153,128
+Make Up For Ever,mu,Ultra HD,uhd,"(201, 133, 103)",18.0,0.49,0.79,62,1,201,133,103
+Make Up For Ever,mu,Ultra HD,uhd,"(199, 151, 123)",22.0,0.38,0.78,67,1,199,151,123
+Make Up For Ever,mu,Ultra HD,uhd,"(190, 132, 112)",15.0,0.41,0.75,61,1,190,132,112
+Make Up For Ever,mu,Ultra HD,uhd,"(199, 133, 105)",18.0,0.47,0.78,62,1,199,133,105
+Make Up For Ever,mu,Ultra HD,uhd,"(182, 128, 105)",18.0,0.42,0.71,59,1,182,128,105
+Make Up For Ever,mu,Ultra HD,uhd,"(177, 120, 98)",17.0,0.45,0.69,56,1,177,120,98
+Make Up For Ever,mu,Ultra HD,uhd,"(153, 103, 84)",17.0,0.45,0.6,49,1,153,103,84
+Make Up For Ever,mu,Ultra HD,uhd,"(156, 98, 74)",18.0,0.53,0.61,48,1,156,98,74
+Make Up For Ever,mu,Ultra HD,uhd,"(142, 86, 66)",16.0,0.54,0.56,43,1,142,86,66
+Make Up For Ever,mu,Ultra HD,uhd,"(120, 74, 66)",9.0,0.45,0.47,37,1,120,74,66
+Make Up For Ever,mu,Ultra HD,uhd,"(137, 88, 82)",7.0,0.4,0.54,43,1,137,88,82
+Make Up For Ever,mu,Ultra HD,uhd,"(100, 65, 54)",14.0,0.46,0.39,31,1,100,65,54
+Hegai and Ester,he,Photo Perfect,pp,"(246, 167, 98)",28.0,0.6,0.96,75,5,246,167,98
+Hegai and Ester,he,Photo Perfect,pp,"(215, 107, 76)",13.0,0.65,0.84,58,5,215,107,76
+Hegai and Ester,he,Photo Perfect,pp,"(173, 84, 61)",12.0,0.65,0.68,47,5,173,84,61
+Hegai and Ester,he,Photo Perfect,pp,"(200, 104, 53)",21.0,0.74,0.78,55,5,200,104,53
+Hegai and Ester,he,Photo Perfect,pp,"(144, 65, 52)",8.0,0.64,0.56,38,5,144,65,52
+Hegai and Ester,he,Photo Perfect,pp,"(146, 82, 78)",4.0,0.47,0.57,43,5,146,82,78
+Hegai and Ester,he,Photo Perfect,pp,"(191, 107, 68)",19.0,0.64,0.75,55,5,191,107,68
+Hegai and Ester,he,Photo Perfect,pp,"(145, 88, 49)",24.0,0.66,0.57,43,5,145,88,49
+Hegai and Ester,he,Photo Perfect,pp,"(234, 137, 68)",25.0,0.71,0.92,67,5,234,137,68
+Hegai and Ester,he,Photo Perfect,pp,"(238, 187, 122)",34.0,0.49,0.93,80,5,238,187,122
+House of Tara,ht,Oil Free,off,"(174, 119, 72)",28.0,0.59,0.68,55,5,174,119,72
+House of Tara,ht,Oil Free,off,"(182, 131, 88)",27.0,0.52,0.71,59,5,182,131,88
+House of Tara,ht,Oil Free,off,"(167, 117, 70)",29.0,0.58,0.65,54,5,167,117,70
+House of Tara,ht,Oil Free,off,"(163, 108, 59)",28.0,0.64,0.64,51,5,163,108,59
+House of Tara,ht,Oil Free,off,"(137, 86, 44)",27.0,0.68,0.54,42,5,137,86,44
+House of Tara,ht,Oil Free,off,"(154, 87, 44)",23.0,0.71,0.6,44,5,154,87,44
+House of Tara,ht,Oil Free,off,"(144, 77, 46)",19.0,0.68,0.56,41,5,144,77,46
+House of Tara,ht,Oil Free,off,"(120, 63, 35)",20.0,0.71,0.47,34,5,120,63,35
+House of Tara,ht,Oil Free,off,"(117, 57, 28)",20.0,0.76,0.46,32,5,117,57,28
+House of Tara,ht,Oil Free,off,"(96, 45, 24)",18.0,0.75,0.38,25,5,96,45,24
+House of Tara,ht,Oil Free,off,"(91, 39, 23)",14.0,0.75,0.36,23,5,91,39,23
+Trim & Prissy,tp,Flawless Finish,fff,"(226, 172, 124)",28.0,0.45,0.89,75,5,226,172,124
+Trim & Prissy,tp,Flawless Finish,fff,"(177, 126, 79)",29.0,0.55,0.69,57,5,177,126,79
+Trim & Prissy,tp,Flawless Finish,fff,"(140, 91, 61)",23.0,0.56,0.55,44,5,140,91,61
+Trim & Prissy,tp,Flawless Finish,fff,"(176, 112, 77)",21.0,0.56,0.69,54,5,176,112,77
+Trim & Prissy,tp,Flawless Finish,fff,"(216, 151, 87)",30.0,0.6,0.85,68,5,216,151,87
+Trim & Prissy,tp,Flawless Finish,fff,"(196, 139, 88)",28.0,0.55,0.77,63,5,196,139,88
+Trim & Prissy,tp,Hi - Def,hdf,"(252, 209, 167)",30.0,0.34,0.99,87,5,252,209,167
+Trim & Prissy,tp,Hi - Def,hdf,"(226, 172, 124)",28.0,0.45,0.89,75,5,226,172,124
+Trim & Prissy,tp,Hi - Def,hdf,"(177, 126, 81)",28.0,0.54,0.69,57,5,177,126,81
+Trim & Prissy,tp,Hi - Def,hdf,"(157, 109, 73)",26.0,0.54,0.62,51,5,157,109,73
+Trim & Prissy,tp,Hi - Def,hdf,"(176, 112, 77)",21.0,0.56,0.69,54,5,176,112,77
+Trim & Prissy,tp,Hi - Def,hdf,"(140, 91, 61)",23.0,0.56,0.55,44,5,140,91,61
+Trim & Prissy,tp,Hi - Def,hdf,"(121, 83, 64)",20.0,0.47,0.47,39,5,121,83,64
+Elsas Pro,ep,Full Coverage,fcf,"(129, 93, 81)",15.0,0.37,0.51,43,5,129,93,81
+Elsas Pro,ep,Full Coverage,fcf,"(132, 89, 73)",16.0,0.45,0.52,42,5,132,89,73
+Elsas Pro,ep,Full Coverage,fcf,"(139, 97, 75)",21.0,0.46,0.55,45,5,139,97,75
+Elsas Pro,ep,Full Coverage,fcf,"(144, 102, 86)",17.0,0.4,0.56,47,5,144,102,86
+Elsas Pro,ep,Full Coverage,fcf,"(119, 76, 67)",10.0,0.44,0.47,37,5,119,76,67
+Elsas Pro,ep,Full Coverage,fcf,"(115, 75, 65)",12.0,0.43,0.45,36,5,115,75,65
+Elsas Pro,ep,Full Coverage,fcf,"(136, 97, 77)",20.0,0.43,0.53,45,5,136,97,77
+Elsas Pro,ep,Full Coverage,fcf,"(186, 130, 97)",22.0,0.48,0.73,60,5,186,130,97
+Elsas Pro,ep,Full Coverage,fcf,"(217, 171, 136)",26.0,0.37,0.85,74,5,217,171,136
+Elsas Pro,ep,Full Coverage,fcf,"(212, 154, 116)",24.0,0.45,0.83,69,5,212,154,116
+Elsas Pro,ep,Full Coverage,fcf,"(207, 138, 96)",23.0,0.54,0.81,64,5,207,138,96
+Kuddy,ku,Matte Wear,mwf,"(199, 134, 96)",22.0,0.52,0.78,62,5,199,134,96
+Kuddy,ku,Matte Wear,mwf,"(224, 162, 96)",31.0,0.57,0.88,72,5,224,162,96
+Kuddy,ku,Matte Wear,mwf,"(204, 139, 101)",22.0,0.5,0.8,64,5,204,139,101
+Kuddy,ku,Matte Wear,mwf,"(199, 134, 96)",22.0,0.52,0.78,62,5,199,134,96
+Kuddy,ku,Matte Wear,mwf,"(178, 114, 79)",21.0,0.56,0.7,54,5,178,114,79
+RMK,rmk,RMK Liquid,lf,"(252, 219, 168)",36.0,0.33,0.99,89,6,252,219,168
+RMK,rmk,RMK Liquid,lf,"(251, 208, 153)",34.0,0.39,0.98,86,6,251,208,153
+RMK,rmk,RMK Liquid,lf,"(247, 190, 135)",29.0,0.45,0.97,81,6,247,190,135
+RMK,rmk,RMK Liquid,lf,"(240, 167, 98)",29.0,0.59,0.94,75,6,240,167,98
+RMK,rmk,RMK Liquid,lf,"(232, 164, 99)",29.0,0.57,0.91,73,6,232,164,99
+RMK,rmk,RMK Liquid,lf,"(253, 220, 187)",30.0,0.26,0.99,90,6,253,220,187
+RMK,rmk,RMK Liquid,lf,"(249, 200, 159)",27.0,0.36,0.98,84,6,249,200,159
+RMK,rmk,RMK Liquid,lf,"(243, 192, 149)",27.0,0.39,0.95,82,6,243,192,149
+RMK,rmk,RMK Liquid,lf,"(193, 118, 99)",12.0,0.49,0.76,58,6,193,118,99
+Addiction,ad,The Foundation,tf,"(255, 220, 190)",28.0,0.25,1.0,90,6,255,220,190
+Addiction,ad,The Foundation,tf,"(255, 216, 185)",27.0,0.27,1.0,89,6,255,216,185
+Addiction,ad,The Foundation,tf,"(253, 213, 180)",27.0,0.29,0.99,88,6,253,213,180
+Addiction,ad,The Foundation,tf,"(253, 207, 173)",25.0,0.32,0.99,87,6,253,207,173
+Addiction,ad,The Foundation,tf,"(253, 203, 166)",26.0,0.34,0.99,85,6,253,203,166
+Addiction,ad,The Foundation,tf,"(252, 197, 158)",25.0,0.37,0.99,84,6,252,197,158
+Addiction,ad,The Foundation,tf,"(248, 191, 136)",29.0,0.45,0.97,82,6,248,191,136
+Addiction,ad,The Foundation,tf,"(243, 188, 134)",30.0,0.45,0.95,80,6,243,188,134
+Addiction,ad,The Foundation,tf,"(234, 177, 122)",29.0,0.48,0.92,77,6,234,177,122
+Addiction,ad,The Foundation,tf,"(233, 176, 121)",29.0,0.48,0.91,76,6,233,176,121
+Addiction,ad,The Foundation,tf,"(223, 170, 118)",30.0,0.47,0.87,74,6,223,170,118
+Addiction,ad,The Foundation,tf,"(221, 163, 118)",26.0,0.47,0.87,72,6,221,163,118
+Addiction,ad,The Foundation,tf,"(218, 162, 114)",28.0,0.48,0.85,71,6,218,162,114
+Addiction,ad,The Foundation,tf,"(219, 158, 112)",26.0,0.49,0.86,70,6,219,158,112
+Addiction,ad,The Foundation,tf,"(214, 150, 104)",25.0,0.51,0.84,68,6,214,150,104
+Addiction,ad,The Foundation,tf,"(195, 131, 85)",25.0,0.56,0.76,61,6,195,131,85
+Addiction,ad,The Foundation,tf,"(195, 127, 78)",25.0,0.6,0.76,60,6,195,127,78
+Shu Uemera,su,Petal Skin Fluid,psf,"(233, 169, 134)",21.0,0.42,0.91,75,6,233,169,134
+Shu Uemera,su,Petal Skin Fluid,psf,"(250, 198, 161)",25.0,0.36,0.98,84,6,250,198,161
+Shu Uemera,su,Petal Skin Fluid,psf,"(201, 158, 118)",29.0,0.41,0.79,68,6,201,158,118
+Shu Uemera,su,Petal Skin Fluid,psf,"(224, 170, 124)",28.0,0.45,0.88,74,6,224,170,124
+Shu Uemera,su,Petal Skin Fluid,psf,"(235, 192, 149)",30.0,0.37,0.92,81,6,235,192,149
+Shu Uemera,su,Petal Skin Fluid,psf,"(249, 218, 189)",29.0,0.24,0.98,89,6,249,218,189
+Shu Uemera,su,Petal Skin Fluid,psf,"(175, 135, 73)",36.0,0.58,0.69,59,6,175,135,73
+Shu Uemera,su,Petal Skin Fluid,psf,"(200, 154, 94)",34.0,0.53,0.78,67,6,200,154,94
+Shu Uemera,su,Petal Skin Fluid,psf,"(219, 171, 109)",34.0,0.5,0.86,73,6,219,171,109
+Shu Uemera,su,Petal Skin Fluid,psf,"(229, 191, 129)",37.0,0.44,0.9,80,6,229,191,129
+Shu Uemera,su,Petal Skin Fluid,psf,"(244, 214, 164)",37.0,0.33,0.96,87,6,244,214,164
+Shiseido,sh,Synchro Skin,ss,"(237, 184, 153)",22.0,0.35,0.93,79,6,237,184,153
+Shiseido,sh,Synchro Skin,ss,"(232, 177, 147)",21.0,0.37,0.91,77,6,232,177,147
+Shiseido,sh,Synchro Skin,ss,"(235, 182, 140)",27.0,0.4,0.92,78,6,235,182,140
+Shiseido,sh,Synchro Skin,ss,"(233, 176, 133)",26.0,0.43,0.91,76,6,233,176,133
+Shiseido,sh,Synchro Skin,ss,"(214, 158, 123)",23.0,0.43,0.84,70,6,214,158,123
+Shiseido,sh,Synchro Skin,ss,"(203, 144, 104)",24.0,0.49,0.8,65,6,203,144,104
+Kate,ka,Secret Skin Maker Zero,ssm,"(247, 213, 187)",26.0,0.24,0.97,88,6,247,213,187
+Kate,ka,Secret Skin Maker Zero,ssm,"(232, 183, 147)",25.0,0.37,0.91,78,6,232,183,147
+Kate,ka,Secret Skin Maker Zero,ssm,"(220, 166, 126)",26.0,0.43,0.86,73,6,220,166,126
+Kate,ka,Secret Skin Maker Zero,ssm,"(235, 189, 136)",32.0,0.42,0.92,80,6,235,189,136
+Kate,ka,Secret Skin Maker Zero,ssm,"(209, 156, 114)",27.0,0.45,0.82,69,6,209,156,114
+Kate,ka,Secret Skin Maker Zero,ssm,"(194, 134, 96)",23.0,0.51,0.76,61,6,194,134,96
+IPSA,ip,Liquid Foundation,lf,"(237, 198, 159)",30.0,0.33,0.93,83,6,237,198,159
+IPSA,ip,Liquid Foundation,lf,"(239, 201, 165)",29.0,0.31,0.94,84,6,239,201,165
+IPSA,ip,Liquid Foundation,lf,"(236, 187, 154)",24.0,0.35,0.93,80,6,236,187,154
+IPSA,ip,Liquid Foundation,lf,"(233, 180, 148)",23.0,0.36,0.91,78,6,233,180,148
+IPSA,ip,Liquid Foundation,lf,"(231, 170, 141)",19.0,0.39,0.91,75,6,231,170,141
+IPSA,ip,Liquid Foundation,lf,"(237, 192, 163)",24.0,0.31,0.93,81,6,237,192,163
+Dior,di,Diorskin Forever,df,"(230, 198, 173)",26.0,0.25,0.9,82,6,230,198,173
+Dior,di,Diorskin Forever,df,"(231, 203, 172)",32.0,0.26,0.91,83,6,231,203,172
+Dior,di,Diorskin Forever,df,"(237, 200, 175)",24.0,0.26,0.93,83,6,237,200,175
+Dior,di,Diorskin Forever,df,"(226, 189, 162)",25.0,0.28,0.89,79,6,226,189,162
+Dior,di,Diorskin Forever,df,"(228, 191, 154)",30.0,0.32,0.89,80,6,228,191,154
+Dior,di,Diorskin Forever,df,"(215, 169, 138)",24.0,0.36,0.84,73,6,215,169,138
+NARS,na,Velvet Matte,vm,"(250, 216, 167)",35.0,0.33,0.98,88,6,250,216,167
+NARS,na,Velvet Matte,vm,"(239, 191, 153)",27.0,0.36,0.94,81,6,239,191,153
+NARS,na,Velvet Matte,vm,"(246, 208, 161)",33.0,0.35,0.96,86,6,246,208,161
+NARS,na,Velvet Matte,vm,"(236, 185, 140)",28.0,0.41,0.93,79,6,236,185,140
+NARS,na,Velvet Matte,vm,"(231, 171, 116)",29.0,0.5,0.91,75,6,231,171,116
+NARS,na,Velvet Matte,vm,"(230, 182, 133)",30.0,0.42,0.9,78,6,230,182,133
+NARS,na,Velvet Matte,vm,"(221, 158, 109)",26.0,0.51,0.87,71,6,221,158,109
+NARS,na,Velvet Matte,vm,"(228, 170, 124)",27.0,0.46,0.89,74,6,228,170,124
+NARS,na,Velvet Matte,vm,"(223, 165, 117)",27.0,0.48,0.87,73,6,223,165,117
+NARS,na,Velvet Matte,vm,"(218, 155, 90)",30.0,0.59,0.85,69,6,218,155,90
+NARS,na,Velvet Matte,vm,"(228, 163, 106)",28.0,0.54,0.89,72,6,228,163,106
+NARS,na,Velvet Matte,vm,"(202, 138, 85)",27.0,0.58,0.79,63,6,202,138,85
+NARS,na,Velvet Matte,vm,"(206, 132, 64)",29.0,0.69,0.81,62,6,206,132,64
+Lakmé,la,Invisible Finish,if,"(195, 157, 118)",30.0,0.39,0.76,68,7,195,157,118
+Lakmé,la,Invisible Finish,if,"(188, 139, 99)",27.0,0.47,0.74,62,7,188,139,99
+Lakmé,la,Invisible Finish,if,"(200, 143, 114)",20.0,0.43,0.78,65,7,200,143,114
+Lakmé,la,Invisible Finish,if,"(222, 175, 145)",23.0,0.35,0.87,75,7,222,175,145
+Colorbar,cb,Perfect Match,pm,"(205, 157, 119)",27.0,0.42,0.8,69,7,205,157,119
+Colorbar,cb,Perfect Match,pm,"(236, 195, 165)",25.0,0.3,0.93,82,7,236,195,165
+Colorbar,cb,Perfect Match,pm,"(229, 174, 135)",25.0,0.41,0.9,76,7,229,174,135
+Bharat & Doris,bd,Liquid Foundation,lf,"(215, 172, 122)",32.0,0.43,0.84,73,7,215,172,122
+Bharat & Doris,bd,Liquid Foundation,lf,"(215, 177, 130)",33.0,0.4,0.84,75,7,215,177,130
+Bharat & Doris,bd,Liquid Foundation,lf,"(206, 156, 106)",30.0,0.49,0.81,68,7,206,156,106
+Bharat & Doris,bd,Liquid Foundation,lf,"(238, 198, 147)",34.0,0.38,0.93,83,7,238,198,147
+Bharat & Doris,bd,Liquid Foundation,lf,"(215, 196, 153)",42.0,0.29,0.84,80,7,215,196,153
+Bharat & Doris,bd,Liquid Foundation,lf,"(227, 179, 133)",29.0,0.41,0.89,77,7,227,179,133
+Bharat & Doris,bd,Liquid Foundation,lf,"(203, 161, 103)",35.0,0.49,0.8,69,7,203,161,103
+Olivia,ol,Foundation,fo,"(235, 137, 62)",26.0,0.74,0.92,67,7,235,137,62
+Olivia,ol,Foundation,fo,"(239, 154, 90)",26.0,0.62,0.94,72,7,239,154,90
+Olivia,ol,Foundation,fo,"(208, 128, 59)",28.0,0.72,0.82,61,7,208,128,59
+Olivia,ol,Foundation,fo,"(183, 111, 71)",21.0,0.61,0.72,54,7,183,111,71
+Blue Heaven,bh,X Factor,xf,"(235, 176, 138)",24.0,0.41,0.92,77,7,235,176,138
+Blue Heaven,bh,X Factor,xf,"(232, 182, 132)",30.0,0.43,0.91,78,7,232,182,132
+Lotus Herbals,lh,Make-Up Ecostay,mue,"(238, 193, 162)",24.0,0.32,0.93,82,7,238,193,162
+Lotus Herbals,lh,Make-Up Ecostay,mue,"(183, 165, 151)",26.0,0.17,0.72,69,7,183,165,151
+Lotus Herbals,lh,Make-Up Ecostay,mue,"(240, 192, 146)",29.0,0.39,0.94,81,7,240,192,146
+Lotus Herbals,lh,Make-Up Ecostay,mue,"(208, 152, 95)",30.0,0.54,0.82,67,7,208,152,95
+Nykaa,ny,SKINgenius,sg,"(203, 144, 112)",21.0,0.45,0.8,65,7,203,144,112
+Nykaa,ny,SKINgenius,sg,"(223, 171, 134)",25.0,0.4,0.87,74,7,223,171,134
+Nykaa,ny,SKINgenius,sg,"(209, 150, 118)",21.0,0.44,0.82,67,7,209,150,118
+Nykaa,ny,SKINgenius,sg,"(212, 172, 147)",23.0,0.31,0.83,74,7,212,172,147
+Nykaa,ny,SKINgenius,sg,"(235, 199, 175)",24.0,0.26,0.92,83,7,235,199,175
+Maybelline,mb,Fit Me Matte,fmm,"(247, 209, 188)",21.0,0.24,0.97,87,7,247,209,188
+Maybelline,mb,Fit Me Matte,fmm,"(243, 185, 137)",27.0,0.44,0.95,80,7,243,185,137
+Maybelline,mb,Fit Me Matte,fmm,"(240, 186, 129)",31.0,0.46,0.94,80,7,240,186,129
+Maybelline,mb,Fit Me Matte,fmm,"(235, 186, 138)",30.0,0.41,0.92,79,7,235,186,138
+Maybelline,mb,Fit Me Matte,fmm,"(214, 156, 116)",24.0,0.46,0.84,69,7,214,156,116
+Maybelline,mb,Fit Me Matte,fmm,"(249, 208, 176)",26.0,0.29,0.98,86,7,249,208,176
+Maybelline,mb,Fit Me Matte,fmm,"(251, 213, 189)",23.0,0.25,0.98,86,7,251,213,189
+Maybelline,mb,Fit Me Matte,fmm,"(231, 185, 162)",20.0,0.3,0.91,79,7,231,185,162
+Maybelline,mb,Fit Me Matte,fmm,"(220, 178, 151)",23.0,0.31,0.86,76,7,220,178,151
+Maybelline,mb,Fit Me Matte,fmm,"(230, 184, 152)",25.0,0.34,0.9,78,7,230,184,152
+Maybelline,mb,Fit Me Matte,fmm,"(235, 191, 147)",30.0,0.37,0.92,81,7,235,191,147
+Maybelline,mb,Fit Me Matte,fmm,"(239, 183, 147)",23.0,0.38,0.94,79,7,239,183,147
+Maybelline,mb,Fit Me Matte,fmm,"(235, 186, 138)",30.0,0.41,0.92,79,7,235,186,138
+Maybelline,mb,Fit Me Matte,fmm,"(243, 178, 125)",27.0,0.49,0.95,78,7,243,178,125
+L'Oréal,lo,True Match,tms,"(105, 55, 32)",19.0,0.7,0.41,29,7,105,55,32
+L'Oréal,lo,True Match,tms,"(176, 117, 85)",21.0,0.52,0.69,55,7,176,117,85
+L'Oréal,lo,True Match,tms,"(188, 109, 78)",17.0,0.59,0.74,55,7,188,109,78
+L'Oréal,lo,True Match,tms,"(194, 153, 121)",26.0,0.38,0.76,67,7,194,153,121
+L'Oréal,lo,True Match,tms,"(221, 180, 150)",25.0,0.32,0.87,76,7,221,180,150
+L'Oréal,lo,True Match,tms,"(238, 191, 163)",22.0,0.32,0.93,81,7,238,191,163
+L'Oréal,lo,True Match,tms,"(231, 203, 181)",26.0,0.22,0.91,84,7,231,203,181
+L'Oréal,lo,True Match,tms,"(220, 178, 154)",22.0,0.3,0.86,76,7,220,178,154
+L'Oréal,lo,True Match,tms,"(240, 199, 179)",20.0,0.25,0.94,83,7,240,199,179
+L'Oréal,lo,True Match,tms,"(238, 207, 186)",24.0,0.22,0.93,85,7,238,207,186
+L'Oréal,lo,True Match,tms,"(232, 199, 184)",19.0,0.21,0.91,83,7,232,199,184
+L'Oréal,lo,True Match,tms,"(240, 203, 185)",20.0,0.23,0.94,85,7,240,203,185
+L'Oréal,lo,True Match,tms,"(233, 196, 177)",20.0,0.24,0.91,82,7,233,196,177
+L'Oréal,lo,True Match,tms,"(234, 190, 161)",24.0,0.31,0.92,80,7,234,190,161
