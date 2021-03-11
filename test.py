@@ -5,10 +5,26 @@ import pickle
 import joblib
 from model import *
 import cv2
+from flask import Flask, render_template, redirect, jsonify
+from flask_pymongo import PyMongo
 
-filename = 'Static/img/Beyonce.jpg'
-image = createimage(filename)
-userdata = jsonify(dominantColors(image))
-rbg = userdata[0][1]
+app = Flask(__name__, template_folder='templates')
+mongo = PyMongo(app, uri="mongodb://localhost:27017/foundation_db")
 
-userdata
+# Function to convert   
+def listToString(s):  
+    
+    # initialize an empty string 
+    str1 = ""  
+    
+    # traverse in the string   
+    for ele in s:  
+        str1 += ele   
+    
+    # return string   
+    return str1  
+        
+        
+# Driver code     
+route = mongo.db.img.distinct("route")
+print(listToString(route))

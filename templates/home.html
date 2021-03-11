@@ -1,0 +1,61 @@
+<!doctype html>
+<title>Upload new File</title>
+<h1>Upload new File</h1>
+
+<form method=post enctype=multipart/form-data>
+  <input type=file name=file>
+  <input type=submit value=Upload>
+</form>
+
+<button type="button" onclick="javascript:findmatch()">Match Foundation</button>
+
+<div class="container">
+    <div class="row">
+      <div class="col-lg-5 col-md-12">
+        <div class="box">
+          <h3 class="title">Picture</h3>
+          <hr>
+          <div class="panel panel-primary">
+            </div>
+            <div class="panel-body"></div>
+            {% if filename %}
+            <img style="max-width: 100%;" src="{{ url_for('static', filename='img/' + filename) }}">
+            {% endif %}
+          </div>
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="container">
+    <div class="row">
+      <div class="col-lg-5 col-md-12">
+        <div class="box">
+          <h3 class="title">Foundation</h3>
+          <hr>
+          <div class="panel panel-primary">
+            </div>
+            <div class="panel-body"></div>
+          </div>
+        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript">
+    var ulta_data = "";
+    {% if ulta_data is defined %}
+      ulta_data = {{ ulta_data | tojson }}
+    {% endif %}
+  </script>
+  <script src="../static/js/jquery.min.js"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="../static/js/app.js"></script>
+
+'''
