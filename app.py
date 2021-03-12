@@ -65,13 +65,13 @@ def predictcolor():
     image = createimage(listToString(route))
     return jsonify(dominantColors(image))
 
-@app.route('/exactmatch')
-def findcolor():
+@app.route('/matchfoundation/<red>/<green>/<blue>')
+def findcolor(red,green,blue):
     foundation_data = []
-    r = 92  
-    g = 68
-    b = 51
-    #Find data from the mongo database
+    r = int(red)
+    g = int(green)
+    b = int(blue)
+
     for data in mongo.db.foundation.find( {
         "red": { "$gte": r-2, "$lte": r+2 },
         "blue": { "$gte": b-2, "$lte": b+2 },
@@ -79,18 +79,30 @@ def findcolor():
         },{"_id":False} ):
         foundation_data.append(data)
     
+    if foundation_data == []:
+        for data in mongo.db.foundation.find( {
+            "red": { "$gte": r-10, "$lte": r+10 },
+            "blue": { "$gte": b-10, "$lte": b+10 },
+            "green": { "$gte": g-10, "$lte": g+10 }
+            },{"_id":False} ):
+            foundation_data.append(data)
+
     return jsonify(foundation_data) 
 
-@app.route('/closestmatch')
-def closestmatch():
+@app.route('/closestmatch/<red>/<green>/<blue>')
+def closestmatch(red,green,blue):
     foundation_data = []
-    r = 92  
-    g = 68
-    b = 51
+    #r = 92  
+    #g = 68
+    #b = 51
+    red = int(red)
+    green = int(green)
+    blue = int(blue)
+    
     for data in mongo.db.foundation.find( {
-        "red": { "$gte": r-10, "$lte": r+10 },
-        "blue": { "$gte": b-10, "$lte": b+10 },
-        "green": { "$gte": g-10, "$lte": g+10 }
+        "red": { "$gte": red-10, "$lte": red+10 },
+        "blue": { "$gte": blue-10, "$lte": blue+10 },
+        "green": { "$gte": green-10, "$lte": green+10 }
         },{"_id":False} ):
         foundation_data.append(data)
     
