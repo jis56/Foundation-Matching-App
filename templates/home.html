@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,14 +8,11 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-
 <style>
 h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
 body {font-family: "Open Sans"}
 </style>
-
 <body class= "w3-light-grey">
-
   <div class="w3-content w3-light-grey" style="max-width:1600px">
     <div>
     <!-- Header -->
@@ -24,20 +20,21 @@ body {font-family: "Open Sans"}
       <h1 class="w3-xxxlarge"><b>Find Your Match</b></h1>
       <h6><span class="w3-tag"> Find Your Best Foundation Match</span></h6>
     </header>
-        
     <!-- Image header -->
     <header class="w3-display-container w3-wide" id="home">
-      <img class="w3-image w3-opacity" src="/Project-3/Static/img/brushes.jpg" alt="Makeup" width="1600" height="1060">
+      <img class="w3-image w3-opacity" src="../static/background/brushes.jpg" alt="Makeup" width="1600" height="1060">
       <div class="w3-display-left w3-padding-large">
         <h1 class="w3-text-black">Best Match</h1>
         <h1 class="w3-jumbo w3-text-black w3-hide-small"><b>Foundation</b></h1>
-        
         <!-- Blog entry -->
         <div class="w3-container w3-white w3-margin w3-padding-large">
           <div class="col-md-6">
             <div class="w3-container w3-padding-medium w3-black"><h3>How it Works</h3></div>
             <h5>Directions<span class="w3-opacity"></span></h5>
-            <p><strong>Take Your Picture!</strong>This will describe the steps on how to make it work.</p>
+            <p><strong>Take Your Picture!</strong>
+              <br>First, you will upload a picture of yourself by clicking the button on the left below.
+              <br>After that, press the submit button which will show you the image you selected.
+              <br>After submitting the image, click the Match Foundation button, and you will get a matching foundation for your skin type.</p>
           </div>
         </div>
       </div>
@@ -48,9 +45,7 @@ body {font-family: "Open Sans"}
         <input type=file name=file>
         <input type=submit value=Upload>
       </form>
-      
       <button type="button">Match Foundation</button>
-
       <div class="container">
         <div class="row">
           <div class="col-lg-5 col-md-12">
@@ -61,7 +56,7 @@ body {font-family: "Open Sans"}
                 </div>
                 <div class="panel-body"></div>
                 {% if filename %}
-                <img style="max-width: 100%;" src="{{ url_for('static', filename='img/' + filename) }}">
+                <img style="max-width: 50%;" src="{{ url_for('static', filename= 'img/' + filename) }}">
                 {% endif %}
               </div>
             </div>
@@ -70,7 +65,6 @@ body {font-family: "Open Sans"}
           </div>
         </div>
       </div>
-
       <div class="container">
         <div class="row">
           <div class="col-lg-5 col-md-6">
@@ -88,9 +82,7 @@ body {font-family: "Open Sans"}
         </div>
       </div>
     </div>
-
       <!--end-->
-              
       <!--<br><div class="choose_file w3-opacity">
           <span><strong>Choose A Snapshot to Upload</strong></span>
           <input name="Select File" type="file" onclick="return hs.expand(this)" />
@@ -99,27 +91,21 @@ body {font-family: "Open Sans"}
           <img src="url" alt="gorgeous selfie here" width="500" height="600">
       </div>-->
     </header>
-        
     <!-- Grid -->
     <div class="w3-row w3-padding w3-border">
-
       <!-- Footer -->
       <footer class="w3-container w3-dark-grey" style="padding:32px">
         <a href="#" class="w3-button w3-black w3-padding-large w3-margin-bottom"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
         <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
       </footer>
-
     <!-- END GRID -->
     </div>
-
   <!-- END w3-content -->
   </div>
-  
 </body>
-
-<script src="../static/js/app.js"></script>
 <script src="../static/js/jquery.min.js"></script>
-
+<script src="../static/js/app.js"></script>
+<script src="../app.py"></script>
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
