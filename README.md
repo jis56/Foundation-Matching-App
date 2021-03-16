@@ -37,10 +37,10 @@ Heroku or Github Pages
 ### Final Results
 
 Home Page with Instructions
-![Alt text](static/img/background/findyourmatch.PNG?raw=true "Find your Match")
+![Alt text](static/background/findyourmatch.PNG?raw=true "Find your Match")
 
 Upload Picture
-![Alt text](static/img/background/uploadpicture.PNG?raw=true "Upload")
+![Alt text](static/background/uploadpicture.PNG?raw=true "Upload")
 
 Click "Match Foundation" and receive foundation information
-![Alt text](static/img/background/match.PNG?raw=true "Match")
+![Alt text](static/background/match.PNG?raw=true "Match")
