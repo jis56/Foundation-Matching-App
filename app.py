@@ -15,7 +15,7 @@ app = Flask(__name__, template_folder='templates')
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024
 
-mongo = PyMongo(app, uri="mongodb://localhost:27017/foundation_db")
+mongo = PyMongo(app, uri="mongodb+srv://jis56:foundation123@foundation.ga4jt.mongodb.net/foundation_db?retryWrites=true&w=majority")
 
 def listToString(s):  
     str1 = ""  
