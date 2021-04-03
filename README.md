@@ -25,9 +25,22 @@ https://www.linkedin.com/pulse/machine-learning-4-classification-skin-color-saga
 ### Programs/Software:
 
 Mongo DB
-HTMLS/CSS 
-Python Pandas 
+HTML/CSS 
+Python
+Javascript
+Pandas 
 
 ### Host Application:
 
 Heroku or Github Pages
+
+### Final Results
+
+Home Page with Instructions
+![Alt text](static/background/findyourmatch.PNG?raw=true "Find your Match")
+
+Upload Picture
+![Alt text](static/background/uploadpicture.PNG?raw=true "Upload")
+
+Click "Match Foundation" and receive foundation information
+![Alt text](static/background/match.PNG?raw=true "Match")
