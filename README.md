@@ -15,11 +15,7 @@ CSV File which contains the data for varying foundation brands:
 
 The data was collected from a list of best selling beauty brands in the US, Nigeria, India, and Japan. Foundations were chosen that had the largest number of shades available and the hex color values were recorded for each of the colored swatches shown for the product.
 
-
-### Resources to segment skin color from an image :
-
-https://www.kaggle.com/ashwingupta3012/human-faces  
-https://www.linkedin.com/pulse/machine-learning-4-classification-skin-color-sagar-gandhi/
+https://github.com/the-pudding/data/tree/master/makeup-shades
 
 
 ### Programs/Software:
@@ -32,7 +28,7 @@ Pandas
 
 ### Host Application:
 
-Heroku or Github Pages
+Heroku 
 
 ### Final Results
 
